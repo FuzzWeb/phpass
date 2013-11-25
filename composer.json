@@ -1,0 +1,12 @@
+{
+    "name": "fuzz/phpass",
+    "authors": [
+        {
+            "name": "Fuzz Web",
+            "email": "fuzzweb@fuzzproductions.com"
+        }
+    ],
+    "autoload": {
+		"files": ["PasswordHash.php"]
+    }
+}
